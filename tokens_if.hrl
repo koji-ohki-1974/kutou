@@ -1,0 +1,3 @@
+-define(A, 16#2e). %% "."
+-define(B, 16#2c). %% ","
+-define(C, 16#0a). %% "\n"

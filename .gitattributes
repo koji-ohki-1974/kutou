@@ -1,0 +1,7 @@
+* text eol=lf
+
+*.html text
+*.hrl text
+*.erl text
+
+*.ico binary
